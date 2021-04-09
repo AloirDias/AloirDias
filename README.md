@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AloirDias
 I was born in Curitiba, South of Brazil.
 I am a civil engineer, graduated from the Paraná Federal University in Brazil.
-Currently living in Limerick, Ireland and studyng computer science in Griffith College.
+Currently living in Limerick, Ireland and studying computer science in Griffith College.
 - 👀 My hobbye is triathlon, starcraft2, travel and movies.
 - 🌱 I’m currently learning java, javascript, HTML, CSS.
 - 💞️ I’m a begineer for a while...
